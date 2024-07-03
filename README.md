@@ -1,32 +1,35 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Andrei!;" />
-</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57c6e4&height=120&section=header"/>
 
-<div  align="center" >
-- 🌱 Atualmente estou estudando Desenvolvimento de Sistemas.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57c6e4&size=35&center=true&vCenter=true&width=1000&lines=Olá!!!;Me+chamo+Andrei!;Bem-vindo(a)+ao+meu+perfil!&b&font=Righteous&size=35)](https://git.io/typing-svg)
+
+<div align="center"> 
+<br>
+ <img src="https://github-profile-trophy.vercel.app/?username=andreiolicar&theme=tokyonight&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
 </div>
 
-<h2 align="center" >Linguagens-Frameworks-Ferramentas</h2>
-<br>
+
+<hr/>
+
+### Linguagens, Frameworks e Ferramentas:
+
 <div align="center" >
+  <br>
   <img src="https://skillicons.dev/icons?i=java,html,css,javascript,vscode,github,photoshop,illustrator,wordpress" />
 </div>
-<h2 align="center" >Stats</h2>
+
 <br>
+
+### Stats:
+
 <div align="center" >
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andreiolicar&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=andreiolicar&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=andreiolicar&show_icons=true" />
-</picture>
+  <br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreiolicar&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Andrei github stats" height="180"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreiolicar&layout=compact&theme=react&hide_border=true" height="180"/>
 </div>
+
 <br>
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
-</h1>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57c6e4&size=35&center=true&vCenter=true&width=1000&lines=Obrigado+pela+atenção!&b&font=Righteous&size=35)](https://git.io/typing-svg)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57c6e4&height=120&section=footer"/>
