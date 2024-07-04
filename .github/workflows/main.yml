@@ -19,28 +19,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '20'
-
-      - name: Install dependencies
+      - name: Generate github-contribution-grid-snake.svg
         run: |
-          npm install -g npm@latest
-          npm install canvas
-
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=blue&color_dots=#57c6e4,#f0f6fc,#d1e6f7,#a9d0e4,#035470
-            dist/github-contribution-grid-snake.gif?color_snake=blue&color_dots=#57c6e4,#f0f6fc,#d1e6f7,#a9d0e4,#035470
+          curl -o github-contribution-grid-snake.svg "https://platane.github.io/snk/svg/github-contribution-grid-snake.svg?color_snake=blue&color_dots=#57c6e4,#f0f6fc,#d1e6f7,#a9d0e4,#035470"
 
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
