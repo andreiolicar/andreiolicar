@@ -22,7 +22,7 @@ jobs:
       - name: Generate github-contribution-grid-snake.svg
         run: |
           mkdir -p dist
-          curl -o dist/github-contribution-grid-snake.svg "https://platane.github.io/snk/svg/github-contribution-grid-snake.svg?color_snake=blue&color_dots=#57c6e4,#f0f6fc,#d1e6f7,#a9d0e4,#035470"
+          curl -o dist/github-contribution-grid-snake.svg "https://platane.github.io/snk/svg/github-contribution-grid-snake.svg?color_snake=blue&color_dots=57c6e4,f0f6fc,d1e6f7,a9d0e4,035470"
 
       - name: Commit and push changes
         run: |
