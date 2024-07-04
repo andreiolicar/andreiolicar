@@ -21,12 +21,16 @@ jobs:
 
       - name: Generate github-contribution-grid-snake.svg
         run: |
-          curl -o github-contribution-grid-snake.svg "https://platane.github.io/snk/svg/github-contribution-grid-snake.svg?color_snake=blue&color_dots=#57c6e4,#f0f6fc,#d1e6f7,#a9d0e4,#035470"
+          mkdir -p dist
+          curl -o dist/github-contribution-grid-snake.svg "https://platane.github.io/snk/svg/github-contribution-grid-snake.svg?color_snake=blue&color_dots=#57c6e4,#f0f6fc,#d1e6f7,#a9d0e4,#035470"
 
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: .
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "Update github-contribution-grid-snake.svg"
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
