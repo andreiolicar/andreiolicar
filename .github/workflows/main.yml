@@ -1,5 +1,7 @@
-name: generate animation
+# GitHub Action for generating a contribution graph with a snake eating your contributions.
+name: Generate Snake
 
+# Controls when the action will run.
 on:
   schedule:
       # every 12 hours
@@ -31,8 +33,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-           dist/github-contribution-grid-snake.svg?color_snake=blue&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-           dist/github-contribution-grid-snake.gif?color_snake=blue&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+           dist/github-contribution-grid-snake.svg?color_snake=blue&color_dots=#57c6e4,#f0f6fc,#d1e6f7,#a9d0e4,#035470
+           dist/github-contribution-grid-snake.gif?color_snake=blue&color_dots=#57c6e4,#f0f6fc,#d1e6f7,#a9d0e4,#035470
       
         env:
            GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
