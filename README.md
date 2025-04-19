@@ -1,15 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57c6e4&height=120&section=header"/>
+### 👨🏻‍💻 **Desenvolvedor FullStack**  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57c6e4&size=35&center=true&vCenter=true&width=1000&lines=Olá!!!;Me+chamo+Andrei!;Bem-vindo(a)+ao+meu+perfil!&b&font=Righteous&size=35)](https://git.io/typing-svg)
-
-<div align="center"> 
-<br>
- <img src="https://github-profile-trophy.vercel.app/?username=andreiolicar&theme=tokyonight&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
-</div>
+Cursando Técnico em Desenvolvimento de Sistemas (3º/8º semestre) na Etec da Zona Leste.
 
 <hr/>
 
-### Linguagens:
+### Languages:
 
 > Front-end Development:
 
@@ -35,7 +30,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-007bff?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
 ![PHPMyAdmin](https://img.shields.io/badge/phpmyadmin-58a6ff?style=for-the-badge&logo=phpmyadmin&logoColor=white) &nbsp;
 
-### Ferramentas:
+### Tools and IDEs:
 
 > Design:
 
@@ -65,11 +60,3 @@
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/andreiolicar/andreiolicar/output/github-contribution-grid-snake.svg" />
 </div>
-
-<hr/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=57c6e4&size=35&center=true&vCenter=true&width=1000&lines=Obrigado+pela+atenção!&b&font=Righteous&size=35)](https://git.io/typing-svg)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=57c6e4&height=120&section=footer"/>
-
-
