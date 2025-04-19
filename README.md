@@ -20,17 +20,12 @@ Cursando Técnico em Desenvolvimento de Sistemas (3º/8º semestre) na Etec da Z
 ![Kotlin](https://img.shields.io/badge/kotlin-007bff.svg?style=for-the-badge&logo=kotlin&logoColor=white) &nbsp;
 ![C++](https://img.shields.io/badge/c++-58a6ff.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
 
-> Mobile Development:
-
-![Java](https://img.shields.io/badge/java-007bff.svg?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp;
-![Kotlin](https://img.shields.io/badge/kotlin-58a6ff.svg?style=for-the-badge&logo=kotlin&logoColor=white) &nbsp;
-
 > Databases:
 
 ![MySQL](https://img.shields.io/badge/MySQL-007bff?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
 ![PHPMyAdmin](https://img.shields.io/badge/phpmyadmin-58a6ff?style=for-the-badge&logo=phpmyadmin&logoColor=white) &nbsp;
 
-### Tools and IDEs:
+### Tools:
 
 > Design:
 
@@ -43,12 +38,6 @@ Cursando Técnico em Desenvolvimento de Sistemas (3º/8º semestre) na Etec da Z
 
 ![Git](https://img.shields.io/badge/Git-007bff?style=for-the-badge&logo=git&logoColor=white) &nbsp;
 ![Github](https://img.shields.io/badge/GitHub-58a6ff?style=for-the-badge&logo=github&logoColor=white) &nbsp;
-
-> Integrated Development Environments (IDEs):
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007bff.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;
-![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-58a6ff.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) &nbsp;
-![Android Studio](https://img.shields.io/badge/android%20studio-007bff?style=for-the-badge&logo=android%20studio&logoColor=white) &nbsp;
 
 ### Contact and Social Media:
 
