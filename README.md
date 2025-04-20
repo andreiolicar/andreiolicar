@@ -1,4 +1,4 @@
-### 👨🏻‍💻 **Desenvolvedor FullStack**  
+### 👨🏻‍💻 **FullStack Development**  
 
 Cursando Técnico em Desenvolvimento de Sistemas (3º/8º semestre) na Etec da Zona Leste.
 
@@ -45,7 +45,3 @@ Cursando Técnico em Desenvolvimento de Sistemas (3º/8º semestre) na Etec da Z
 [![website](https://img.shields.io/badge/website-58a6ff?style=for-the-badge&logo=About.me&logoColor=white)](https://andreidev.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-007bff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-oliveira-carneiro/)
 [![GitHub](https://img.shields.io/badge/GitHub-0086ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andreiolicar)
-
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/andreiolicar/andreiolicar/output/github-contribution-grid-snake.svg" />
-</div>
