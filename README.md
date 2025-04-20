@@ -10,14 +10,14 @@ Cursando Técnico em Desenvolvimento de Sistemas (3º/8º semestre) na Etec da Z
 
 ![HTML](https://img.shields.io/badge/HTML-007bff?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![CSS](https://img.shields.io/badge/CSS-58a6ff?&style=for-the-badge&logo=css3&logoColor=white) &nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-007bff?style=for-the-badge&logo=javascript&logoColor=white) &nbsp;
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-58a6ff?style=for-the-badge&logo=tailwind-css&logoColor=white) &nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-007bff?style=for-the-badge&logo=javascript&logoColor=white) &nbsp;
 
 > Back-end Development:
 
-![PHP](https://img.shields.io/badge/php-007bff.svg?style=for-the-badge&logo=php&logoColor=white) &nbsp;
 ![Java](https://img.shields.io/badge/java-58a6ff.svg?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp;
 ![Kotlin](https://img.shields.io/badge/kotlin-007bff.svg?style=for-the-badge&logo=kotlin&logoColor=white) &nbsp;
+![PHP](https://img.shields.io/badge/php-007bff.svg?style=for-the-badge&logo=php&logoColor=white) &nbsp;
 ![C++](https://img.shields.io/badge/c++-58a6ff.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
 
 > Databases:
@@ -42,6 +42,6 @@ Cursando Técnico em Desenvolvimento de Sistemas (3º/8º semestre) na Etec da Z
 ### Contact and Social Media:
 
 [![Gmail](https://img.shields.io/badge/Gmail-007bff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreiolicar7@gmail.com)
-[![website](https://img.shields.io/badge/website-58a6ff?style=for-the-badge&logo=About.me&logoColor=white)](https://andreidev.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-007bff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-oliveira-carneiro/)
+[![Site](https://img.shields.io/badge/website-58a6ff?style=for-the-badge&logo=About.me&logoColor=white)](https://andreidev.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-007bff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-oliveira-carneiro-0a35b8310/)
 [![GitHub](https://img.shields.io/badge/GitHub-0086ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andreiolicar)
