@@ -45,10 +45,10 @@ Currently studying Technical Education in Systems Development (2/3), ETEC da Zon
 
 <div align="left">
   <a href="https://github.com/andreiolicar/VetMate" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreiolicar&repo=VetMate&theme=dark&title_color=007bff&icon_color=58a6ff&text_color=ffffff&bg_color=0D1117" width="422"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreiolicar&repo=VetMate&theme=dark&title_color=007bff&icon_color=58a6ff&text_color=ffffff&bg_color=0D1117" width="421"/>
   </a>
   <a href="https://github.com/andreiolicar/Execute" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreiolicar&repo=Execute&theme=dark&title_color=007bff&icon_color=58a6ff&text_color=ffffff&bg_color=0D1117" width="422"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=andreiolicar&repo=Execute&theme=dark&title_color=007bff&icon_color=58a6ff&text_color=ffffff&bg_color=0D1117" width="421"/>
   </a>
 </div>
 
