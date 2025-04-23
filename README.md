@@ -1,4 +1,4 @@
-### 👨🏻‍💻 **FullStack Development**  
+### 👨🏻‍💻 **FullStack Developer**  
 
 Currently studying Technical Education in Systems Development (2/3), ETEC da Zona Leste.
 
