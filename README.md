@@ -1,7 +1,7 @@
 ## 👨🏻‍💻 <strong>Andrei Carneiro | FullStack Developer</strong>
 
 <h3>About Me</h3>
-- 💻 Currently studying Technical Education in Systems Development (2/3), ETEC da Zona Leste. <br>
+- 💻 Currently studying Technical Education in Systems Development (3/3), ETEC da Zona Leste. <br>
 - 📚 Currently diving into JavaScript stack, enhancing my backend and frontend development skills. <br>
 - ☁️ I'm also passionate about DevOps, especially exploring Cloud computing and mastering Docker.
 
