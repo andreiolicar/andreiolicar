@@ -112,7 +112,7 @@ O sistema combina aplicação web, API modular, autenticação e persistência e
 ![Prisma](https://img.shields.io/badge/Prisma-21262D?style=for-the-badge&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-21262D?style=for-the-badge&logo=docker&logoColor=white)
 
-[![Ver repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-30363D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andreiolicar/gtel-finance-hub)
+[![Ver repositório](https://img.shields.io/badge/Ver_reposit%C3%B3rio-30363D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andreiolicar/gtel-finance-hub-portfolio)
 
 ---
 
