@@ -6,7 +6,7 @@
 
 Construindo produtos digitais, automações e soluções de software com IA aplicada ao desenvolvimento.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge)](https://www.linkedin.com/in/andrei-oliveira-carneiro-0a35b8310/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-21262D?style=for-the-badge)](https://www.linkedin.com/in/andrei-carneiro-0a35b8310/)
 [![Projetos](https://img.shields.io/badge/Conhe%C3%A7a_meus_projetos-30363D?style=for-the-badge&logo=github&logoColor=white)](#projetos-em-destaque)
 
 </div>
@@ -149,6 +149,6 @@ O projeto conecta sensores, ESP32, API e aplicação web para coleta, armazename
 
 Aberto a oportunidades para aprender, colaborar e construir soluções com tecnologia.
 
-[![LinkedIn](https://img.shields.io/badge/Conversar_no_LinkedIn-21262D?style=for-the-badge)](https://www.linkedin.com/in/andrei-oliveira-carneiro-0a35b8310/)
+[![LinkedIn](https://img.shields.io/badge/Conversar_no_LinkedIn-21262D?style=for-the-badge)](https://www.linkedin.com/in/andrei-carneiro-0a35b8310/)
 
 </div>
